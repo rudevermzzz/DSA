@@ -5,4 +5,4 @@
 
 # Day 3 : Printing the first maximum in an array
 
-# Day 4 : ounting how many times a given element (marks) appears in an array.
+# Day 4 : Counting how many times a given element (marks) appears in an array.
