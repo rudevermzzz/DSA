@@ -8,3 +8,5 @@
 # Day 4 : Counting how many times a given element (marks) appears in an array.
 
 # Day 5 : Count elements greater than the average
+
+# Day 6 :Finding the second largest element without using INT_MIN by dynamically initializing your variables
