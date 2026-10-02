@@ -12,3 +12,5 @@
 # Day 6 :Finding the second largest element without using INT_MIN by dynamically initializing your variables
 
 # Day 7 : Find the smallest repeating element in an array
+
+# Day 8 : First Non-Repeating Element
