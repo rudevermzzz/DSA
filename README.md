@@ -14,3 +14,5 @@
 # Day 7 : Find the smallest repeating element in an array
 
 # Day 8 : First Non-Repeating Element
+
+# Day 8 : First Repeating Element in an Array
