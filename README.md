@@ -21,3 +21,5 @@
 
 # Day 10: Two Sum using Two Pointers
 
+# Day 10: Remove Duplicates from Sorted Array
+
