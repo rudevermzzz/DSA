@@ -23,3 +23,4 @@
 
 # Day 10: Remove Duplicates from Sorted Array
 
+# Day 11: Palindrome Check
