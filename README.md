@@ -18,3 +18,6 @@
 # Day 8 : First Repeating Element in an Array
 
 # Day 9: Frequency Counting / Hash Map
+
+# Day 10: Two Sum using Two Pointers
+
