@@ -16,3 +16,5 @@
 # Day 8 : First Non-Repeating Element
 
 # Day 8 : First Repeating Element in an Array
+
+# Day 9: Frequency Counting / Hash Map
