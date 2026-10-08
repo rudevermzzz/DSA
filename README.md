@@ -26,3 +26,5 @@
 # Day 11: Palindrome Check
 
 # Day 12 : Pair Difference=K
+
+# Day 13 : Maximum sum of K consecutive elements
