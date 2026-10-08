@@ -25,4 +25,4 @@
 
 # Day 11: Palindrome Check
 
-# Day 12 : Pair Difference = K
+# Day 12 : Pair Difference=K
