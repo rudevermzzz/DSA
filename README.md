@@ -28,3 +28,5 @@
 # Day 12 : Pair Difference=K
 
 # Day 13 : Maximum sum of K consecutive elements
+
+# Day 14 : Deleting a node from a linked list
